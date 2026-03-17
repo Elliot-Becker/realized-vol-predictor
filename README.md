@@ -128,5 +128,4 @@ pytest tests/ -v
 ## Author
 
 **Elliot Becker**
-Cybersecurity student at APSU (graduating May 2027) · Interning at WWT
 [github.com/Elliot-Becker](https://github.com/Elliot-Becker)
